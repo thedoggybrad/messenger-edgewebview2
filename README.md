@@ -1,6 +1,9 @@
 # Known Issue
 If you login for the first time and Facebook thinks the login is suspicious, it will open facebook.com on an external browser. Confirm it there and attempt to relogin again using this app. 
 
+## System Requirement Notice
+This app requires .NET Framework 4.8 or higher to run. But it can run on .NET Framework 4.5 if you rebuild it to target this version and adjust some codes yourself.
+
 # messenger-edgewebview2
 This application just uses messenger.com, running on EdgeWebView2 based on the modified v1.0 base code of [Edgescape Navigator](https://github.com/thedoggybrad/edgescape_navigator).
 <br>
