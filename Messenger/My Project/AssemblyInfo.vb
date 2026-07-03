@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Edgescape Navigator")>
+<Assembly: AssemblyTitle("Messenger")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Edgescape Navigator")>
-<Assembly: AssemblyCopyright("Copyright ©  2023")>
+<Assembly: AssemblyProduct("Messenger")>
+<Assembly: AssemblyCopyright("Copyright ©  2026")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>

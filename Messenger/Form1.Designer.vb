@@ -38,7 +38,7 @@ Partial Class Form1
         Me.WebView21.Location = New System.Drawing.Point(0, 0)
         Me.WebView21.Name = "WebView21"
         Me.WebView21.Size = New System.Drawing.Size(1195, 807)
-        Me.WebView21.Source = New System.Uri("https://messenger.com", System.UriKind.Absolute)
+        Me.WebView21.Source = New System.Uri("https://www.messenger.com", System.UriKind.Absolute)
         Me.WebView21.TabIndex = 0
         Me.WebView21.ZoomFactor = 1.0R
         '
@@ -47,6 +47,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
+        Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(1193, 806)
         Me.Controls.Add(Me.WebView21)
         Me.Cursor = System.Windows.Forms.Cursors.Arrow
