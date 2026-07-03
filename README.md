@@ -1,3 +1,6 @@
+# Known Issue
+If you login for the first time and Facebook thinks the login is suspicious, it will open facebook.com on an external browser. Confirm it there and attempt to relogin again using this app. 
+
 # messenger-edgewebview2
 This application just uses messenger.com, running on EdgeWebView2 based on the modified v1.0 base code of [Edgescape Navigator](https://github.com/thedoggybrad/edgescape_navigator).
 <br>
