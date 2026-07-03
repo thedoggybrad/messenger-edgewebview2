@@ -1,5 +1,5 @@
 # messenger-edgewebview2
-This application just uses fmessenger.com, running on EdgeWebView2.
+This application just uses messenger.com, running on EdgeWebView2.
 <br>
 This application is created using Visual Studio 2026 under VB.NET. 
 <br>
