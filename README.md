@@ -5,7 +5,7 @@ This application is created using Visual Studio 2026 under VB.NET.
 <br>
 I created this application, because Facebook Messenger pulled out their "real" windows app. But, they rereleased a PWA one in the Microsoft Store. 
 <br>
-I recreated that PWA version into an actual webapp using EdgeWebView2.
+I recreated that PWA version into an actual webapp using EdgeWebView2. This is because when I installed messenger.com as a PWA it stops working but when I just run it on a web browser then it runs fine just like this.
 <br>
 <br>
 You may do whatever you want on this app or even on its source code under MIT License.
