@@ -16,4 +16,6 @@ Note: This application is unsigned and will not be maintained. But since, this i
 ## Links (Download)
 Setup: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/setup.exe
 <br>
+Portable: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/Portable.zip
+<br>
 Source Code: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/Source.Code.zip
