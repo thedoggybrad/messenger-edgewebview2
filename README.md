@@ -1,5 +1,5 @@
 # messenger-edgewebview2
-This application just uses messenger.com, running on EdgeWebView2.
+This application just uses messenger.com, running on EdgeWebView2 based on the v1.0 base code of [Edgescape Navigator ](https://github.com/thedoggybrad/edgescape_navigator).
 <br>
 This application is created using Visual Studio 2026 under VB.NET. 
 <br>
