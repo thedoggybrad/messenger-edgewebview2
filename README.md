@@ -3,7 +3,7 @@ This application just uses fmessenger.com, running on EdgeWebView2.
 <br>
 This application is created using Visual Studio 2026 under VB.NET. 
 <br>
-I created this application, because Facebook pulled out their "real" windows app. But, they rereleased a PWA one in the Microsoft Store. 
+I created this application, because Facebook Messenger pulled out their "real" windows app. But, they rereleased a PWA one in the Microsoft Store. 
 <br>
 I recreated that PWA version into an actual webapp using EdgeWebView2.
 <br>
@@ -14,6 +14,6 @@ You may do whatever you want on this app or even on its source code under MIT Li
 Note: This application is unsigned and will not be maintained. But since, this is just an EdgeWebView2 application, just update your EdgeWebView2 for this app to be updated.
 
 ## Links (Download)
-Setup: 
+Setup: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/setup.exe
 <br>
-Source Code: 
+Source Code: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/Source.Code.zip
