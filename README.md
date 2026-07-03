@@ -17,8 +17,8 @@ You may do whatever you want on this app or even on its source code under MIT Li
 Note: This application is unsigned and will not be maintained. But since, this is just an EdgeWebView2 application, just update your EdgeWebView2 for this app to be updated.
 
 ## Links (Download)
-Setup: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/setup.exe
+Setup: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.1/setup.exe
 <br>
-Portable: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/Portable.zip
+Portable: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.1/Portable.zip
 <br>
-Source Code: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.0/Source.Code.zip
+Source Code: https://github.com/thedoggybrad/messenger-edgewebview2/releases/download/1.1/Source.Code.zip
